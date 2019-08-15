@@ -3,6 +3,7 @@ body {
   background-color: #e3e4c2;
   font-family: "Calibri", Verdana, sans-serif;
   font-size: 18px;
+  width: 760px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -24,9 +25,4 @@ h3 {
 
 h4, h5, h6 {
   font-size: 20px
-}
-
-ol .disc {
-  counter-reset: section;
-  list-style-type: disc;
 }
